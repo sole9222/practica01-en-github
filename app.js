@@ -1,1 +1,1 @@
-console.log(ejecutando el proograma);
+console.log(ejecutando_el_programa);
