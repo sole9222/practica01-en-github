@@ -78,3 +78,4 @@ while(contador1 >=0){
  alert(`voy por la vuelta número ${contador1}`);
  contador1--;
 } 
+let hola =  prompt('hola gente');
